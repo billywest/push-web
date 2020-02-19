@@ -1,13 +1,13 @@
 {
   "name": "push",
   "version": "1.0.0",
-  "description": "",
+  "description": "Push Web Notifications",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Billy West",
   "license": "ISC",
   "dependencies": {
     "web-push": "^3.4.3"
